@@ -13,6 +13,9 @@ int main(void)
 		}
 		if (k == i)
 			result += k;
+
+
+
 	}
 	printf("1부터 100까지 소수의 합=%d\n", result); 
 	system("pause");
