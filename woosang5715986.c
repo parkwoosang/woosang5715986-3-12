@@ -11,6 +11,7 @@ int main(void)
 		{
 			if (i % k == 0)break; 
 		}
+
 		if (k == i)
 			result += k;
 	}
